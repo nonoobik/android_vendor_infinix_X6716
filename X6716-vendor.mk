@@ -616,8 +616,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X6716/proprietary/vendor/lib/libpqframework.so:$(TARGET_COPY_OUT_VENDOR)/lib/libpqframework.so \
     vendor/infinix/X6716/proprietary/vendor/lib/libpqparamparser.so:$(TARGET_COPY_OUT_VENDOR)/lib/libpqparamparser.so \
     vendor/infinix/X6716/proprietary/vendor/lib/libpqpconfig.so:$(TARGET_COPY_OUT_VENDOR)/lib/libpqpconfig.so \
-    vendor/infinix/X6716/proprietary/vendor/lib/libprotobuf-cpp-full-3.9.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/libprotobuf-cpp-full-3.9.1.so \
-    vendor/infinix/X6716/proprietary/vendor/lib/libprotobuf-cpp-lite-3.9.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/libprotobuf-cpp-lite-3.9.1.so \
     vendor/infinix/X6716/proprietary/vendor/lib/librcs_interface.so:$(TARGET_COPY_OUT_VENDOR)/lib/librcs_interface.so \
     vendor/infinix/X6716/proprietary/vendor/lib/librcs_volte_core.so:$(TARGET_COPY_OUT_VENDOR)/lib/librcs_volte_core.so \
     vendor/infinix/X6716/proprietary/vendor/lib/librgbwlightsensor.so:$(TARGET_COPY_OUT_VENDOR)/lib/librgbwlightsensor.so \
@@ -1145,8 +1143,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X6716/proprietary/vendor/lib64/libpqframework.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libpqframework.so \
     vendor/infinix/X6716/proprietary/vendor/lib64/libpqparamparser.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libpqparamparser.so \
     vendor/infinix/X6716/proprietary/vendor/lib64/libpqpconfig.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libpqpconfig.so \
-    vendor/infinix/X6716/proprietary/vendor/lib64/libprotobuf-cpp-full-3.9.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libprotobuf-cpp-full-3.9.1.so \
-    vendor/infinix/X6716/proprietary/vendor/lib64/libprotobuf-cpp-lite-3.9.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libprotobuf-cpp-lite-3.9.1.so \
     vendor/infinix/X6716/proprietary/vendor/lib64/libratconfig.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libratconfig.so \
     vendor/infinix/X6716/proprietary/vendor/lib64/libremosaic_wrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libremosaic_wrapper.so \
     vendor/infinix/X6716/proprietary/vendor/lib64/libremosaiclib.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libremosaiclib.so \
