@@ -519,8 +519,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X6716/proprietary/vendor/lib/libccci_util.so:$(TARGET_COPY_OUT_VENDOR)/lib/libccci_util.so \
     vendor/infinix/X6716/proprietary/vendor/lib/libcmdl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcmdl.so \
     vendor/infinix/X6716/proprietary/vendor/lib/libcmdl_ndk.mtk.vndk.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcmdl_ndk.mtk.vndk.so \
-    vendor/infinix/X6716/proprietary/vendor/lib/libcodec2_hidl@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcodec2_hidl@1.0.so \
-    vendor/infinix/X6716/proprietary/vendor/lib/libcodec2_hidl@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcodec2_hidl@1.1.so \
     vendor/infinix/X6716/proprietary/vendor/lib/libcodec2_mtk_c2store.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcodec2_mtk_c2store.so \
     vendor/infinix/X6716/proprietary/vendor/lib/libcodec2_mtk_vdec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcodec2_mtk_vdec.so \
     vendor/infinix/X6716/proprietary/vendor/lib/libcodec2_mtk_venc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcodec2_mtk_venc.so \
@@ -958,8 +956,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X6716/proprietary/vendor/lib64/libccci_util.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libccci_util.so \
     vendor/infinix/X6716/proprietary/vendor/lib64/libcmdl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcmdl.so \
     vendor/infinix/X6716/proprietary/vendor/lib64/libcmdl_ndk.mtk.vndk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcmdl_ndk.mtk.vndk.so \
-    vendor/infinix/X6716/proprietary/vendor/lib64/libcodec2_hidl@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcodec2_hidl@1.0.so \
-    vendor/infinix/X6716/proprietary/vendor/lib64/libcodec2_hidl@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcodec2_hidl@1.1.so \
     vendor/infinix/X6716/proprietary/vendor/lib64/libcodec2_mtk_c2store.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcodec2_mtk_c2store.so \
     vendor/infinix/X6716/proprietary/vendor/lib64/libcodec2_mtk_vdec.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcodec2_mtk_vdec.so \
     vendor/infinix/X6716/proprietary/vendor/lib64/libcodec2_mtk_venc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcodec2_mtk_venc.so \
@@ -1012,8 +1008,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X6716/proprietary/vendor/lib64/libhdrvideo.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhdrvideo.so \
     vendor/infinix/X6716/proprietary/vendor/lib64/libheichal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libheichal.so \
     vendor/infinix/X6716/proprietary/vendor/lib64/libhevce_sb.ca7.android.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhevce_sb.ca7.android.so \
-    vendor/infinix/X6716/proprietary/vendor/lib64/libhwc2on1adapter.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhwc2on1adapter.so \
-    vendor/infinix/X6716/proprietary/vendor/lib64/libhwc2onfbadapter.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhwc2onfbadapter.so \
     vendor/infinix/X6716/proprietary/vendor/lib64/libhwm.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhwm.so \
     vendor/infinix/X6716/proprietary/vendor/lib64/libhydra.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhydra.so \
     vendor/infinix/X6716/proprietary/vendor/lib64/libhyperion_hap_ca.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhyperion_hap_ca.so \
@@ -1214,7 +1208,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X6716/proprietary/vendor/lib64/libwifitest.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwifitest.so \
     vendor/infinix/X6716/proprietary/vendor/lib64/libwo.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwo.so \
     vendor/infinix/X6716/proprietary/vendor/lib64/libwpfa.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwpfa.so \
-    vendor/infinix/X6716/proprietary/vendor/lib64/libwvhidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwvhidl.so \
     vendor/infinix/X6716/proprietary/vendor/lib64/mediadrm/libwvdrmengine.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mediadrm/libwvdrmengine.so \
     vendor/infinix/X6716/proprietary/vendor/lib64/meta_wifi_data.so:$(TARGET_COPY_OUT_VENDOR)/lib64/meta_wifi_data.so \
     vendor/infinix/X6716/proprietary/vendor/lib64/mt6768/libdpframework.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6768/libdpframework.so \
