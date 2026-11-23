@@ -740,11 +740,8 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X6716/proprietary/vendor/lib64/egl/libMEOW_gift.so:$(TARGET_COPY_OUT_VENDOR)/lib64/egl/libMEOW_gift.so \
     vendor/infinix/X6716/proprietary/vendor/lib64/egl/libMEOW_qt.so:$(TARGET_COPY_OUT_VENDOR)/lib64/egl/libMEOW_qt.so \
     vendor/infinix/X6716/proprietary/vendor/lib64/egl/libMEOW_trace.so:$(TARGET_COPY_OUT_VENDOR)/lib64/egl/libMEOW_trace.so \
-    vendor/infinix/X6716/proprietary/vendor/lib64/ese_client.so:$(TARGET_COPY_OUT_VENDOR)/lib64/ese_client.so \
-    vendor/infinix/X6716/proprietary/vendor/lib64/ese_spi_nxp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/ese_spi_nxp.so \
     vendor/infinix/X6716/proprietary/vendor/lib64/fake_serial_yuv_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/fake_serial_yuv_IdxMgr.so \
     vendor/infinix/X6716/proprietary/vendor/lib64/fake_serial_yuv_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/fake_serial_yuv_tuning.so \
-    vendor/infinix/X6716/proprietary/vendor/lib64/hal_libnfc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hal_libnfc.so \
     vendor/infinix/X6716/proprietary/vendor/lib64/hi1634q_mipi_raw_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hi1634q_mipi_raw_IdxMgr.so \
     vendor/infinix/X6716/proprietary/vendor/lib64/hi1634q_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hi1634q_mipi_raw_tuning.so \
     vendor/infinix/X6716/proprietary/vendor/lib64/hw/android.hardware.audio@6.0-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.audio@6.0-impl-mediatek.so \
@@ -1208,7 +1205,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X6716/proprietary/vendor/lib64/mt6768/libnir_neon_driver.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6768/libnir_neon_driver.so \
     vendor/infinix/X6716/proprietary/vendor/lib64/mt6768/libpq_prot.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6768/libpq_prot.so \
     vendor/infinix/X6716/proprietary/vendor/lib64/mtkcam/libmtkcam_streaminfo_plugin-p1stt.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mtkcam/libmtkcam_streaminfo_plugin-p1stt.so \
-    vendor/infinix/X6716/proprietary/vendor/lib64/nfc_nci_nxp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/nfc_nci_nxp.so \
     vendor/infinix/X6716/proprietary/vendor/lib64/nwk_opt_imp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/nwk_opt_imp.so \
     vendor/infinix/X6716/proprietary/vendor/lib64/ov64b40_mipi_raw_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/ov64b40_mipi_raw_IdxMgr.so \
     vendor/infinix/X6716/proprietary/vendor/lib64/ov64b40_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/ov64b40_mipi_raw_tuning.so \
